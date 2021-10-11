@@ -1,0 +1,25 @@
+.sidebar{
+    width: 60px;
+    height: 100vh;
+    background-color: #181b1f;
+}
+
+path {
+    fill: white;
+}
+
+.navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid whitesmoke; */
+    height: 44px;
+}
+
+.navbar-button:hover{
+    background-color: #8f949c;
+}
+
+.img-icon{
+    height: 55%;
+}
